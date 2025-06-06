@@ -20,7 +20,7 @@
 1. **Cloná el repositorio:**
 
    ```bash
-   git clone https://github.com/vicomatias/padel-shop-app.git
+   git clone https://github.com/matiasvico/padel-shop-app.git
    cd padel-shop
    ```
 
