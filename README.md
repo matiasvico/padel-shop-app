@@ -38,6 +38,10 @@
 
 4. Escaneá el código QR con la app de Expo Go en tu dispositivo móvil o usá un emulador Android/iOS.
 
+5. Cuando inicies la app, podés registrarte o iniciar sesión con el correo electrónico y la contraseña predeterminados.
+* email: b@b.com
+* password: 123123
+
 ---
 
 ## 📦 Dependencias usadas
