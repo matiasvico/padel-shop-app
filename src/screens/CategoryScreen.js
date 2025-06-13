@@ -42,15 +42,6 @@ const CategoryScreen = () => {
     return (
         <View style={style.container}>
             <Text style={style.title}>Productos Disponibles</Text>
-            {/*<TouchableOpacity onPress={() => setCategoriaSeleccionada(null)}>
-                <Text style={style.filtro}>Todos</Text>
-            </TouchableOpacity>
-            <TouchableOpacity onPress={() => setCategoriaSeleccionada("nuevos")}>
-                <Text style={style.filtro}>Nuevos</Text>
-            </TouchableOpacity>
-            <TouchableOpacity onPress={() => setCategoriaSeleccionada("oferta")}>
-                <Text style={style.filtro}>Ofertas</Text>
-            </TouchableOpacity> */}
             <View style={style.filtros}>
                 <CategoriaCheckbox label="Todos" value={null} />
                 <CategoriaCheckbox label="Nuevos" value="nuevos" />
